@@ -6,7 +6,7 @@ class App extends Component {
     super();
     this.state = {
       name:{ FirtstName:'jean', LastName: 'Rey'},
-      company: 'hyros INC'
+      company: 'hyros INCdd'
     };
     }
 
