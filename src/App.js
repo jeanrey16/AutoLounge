@@ -8,7 +8,6 @@ class App extends Component {
       Monsters: [],
     };
     }
-
     componentDidMount(){
       fetch('https//https://jsonplaceholder.typicode.com/users')
       .then((response) => response.json())
