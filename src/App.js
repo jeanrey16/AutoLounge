@@ -1,6 +1,5 @@
 import { Component } from 'react';
 import './App.css';
-
 class App extends Component {
   constructor(){
     super();
@@ -22,7 +21,7 @@ class App extends Component {
     )
   );
 }
-erer
+
   render(){
   return(
   <div className="App">
