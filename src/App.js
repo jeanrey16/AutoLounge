@@ -24,7 +24,7 @@ class App extends Component {
         )
       );
   }
-sssf
+
   render(){
     console.log('render');
     return(
