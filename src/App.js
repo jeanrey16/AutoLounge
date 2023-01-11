@@ -24,7 +24,7 @@ class App extends Component {
         )
       );
   }
-dvv
+
   render(){
     console.log('render');
     return(
