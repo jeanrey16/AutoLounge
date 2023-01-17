@@ -24,7 +24,7 @@ class App extends Component {
         )
       );
   }
-
+cbvxcb
   render(){
     console.log('render');
     return(
