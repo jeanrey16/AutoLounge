@@ -24,7 +24,7 @@ class App extends Component {
         )
       );
   }
-
+awewae
   render(){
     console.log('render');
     return(
